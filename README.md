@@ -1,4 +1,4 @@
-# Expanding Card Photo Gallery: Special Temple of Yogyakarta
+# Expanding Card Photo Gallery: [Special Temple of Yogyakarta Demo](https://hndrapratamaa.github.io/Special-Temple-of-Yogyakarta/)
 
 ## Overview
 
@@ -28,4 +28,4 @@ As a cultural and educational hub, Yogyakarta has developed to accommodate both 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/hndrapratamaa/Special-Temple-of-Yogyakart.git
