@@ -2,7 +2,7 @@
 ## [Special Temple of Yogyakarta Demo](https://hndrapratamaa.github.io/Special-Temple-of-Yogyakarta/)
 
 
-![Preview](https://hndrapratamaa.github.io/happyBirthday-main/preview.png)
+![Preview](https://hndrapratamaa.github.io/Special-Temple-of-Yogyakarta/preview.png)
 
 ## Overview
 
